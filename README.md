@@ -1,6 +1,6 @@
 # shadcn/ui
 
-Accessible and customizable components that you can copy and paste into your apps. Free. Open Source. **Use this to build your own component library**.
+Beautifully designed components modded by the development team of meru to use as UI system in all projects web de Meru Import .
 
 ![hero](apps/www/public/og.jpg)
 
